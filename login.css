@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+
+    background-image: url(./images/M3ilZL.jpg);
+    background-size: cover;
+
+}
+.form{
+    width: 35%; 
+    margin-left: 32%;
+    border-radius: 4px; 
+    box-sizing: content-box;
+    width: 25%;
+    border: solid white 1px;
+    padding: 40px;
+    margin-top: 9%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    border-style: outset;
+    background-color: transparent;
+    border-color: #274fa0;
+    text-indent: 30px;
+}
+
+input{
+    opacity: 0.5;
+
+}
+
+.btn{
+    margin-left: 32%;
+}
+
+
+h1{
+
+    padding-top: 5%;
+    margin-bottom: 10em;
+    padding-left: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
+}

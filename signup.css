@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+form{
+    padding: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 30%;
+    color: black;
+    
+  
+    
+  
+}
+body{
+    background-image: url(./images/1_8KIgj4DUH_xP1KyTybJAkg.jpeg);
+    background-size: cover;
+    
+}
+
+
+select{
+    opacity: 0.2;
+}
+
+
+
